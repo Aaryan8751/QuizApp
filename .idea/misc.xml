@@ -5,9 +5,14 @@
       <map>
         <entry key="..\:/PEC/Github_Repos/QuizApp/app/src/main/res/drawable-v24/correct_option_border_bg.xml" value="0.23493360572012256" />
         <entry key="..\:/PEC/Github_Repos/QuizApp/app/src/main/res/drawable-v24/default_option_border_bg.xml" value="0.23493360572012256" />
+        <entry key="..\:/PEC/Github_Repos/QuizApp/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.23493360572012256" />
+        <entry key="..\:/PEC/Github_Repos/QuizApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23493360572012256" />
         <entry key="..\:/PEC/Github_Repos/QuizApp/app/src/main/res/drawable-v24/selected_option_border_bg.xml" value="0.15729166666666666" />
+        <entry key="..\:/PEC/Github_Repos/QuizApp/app/src/main/res/drawable-v24/wrong_option_border_bg.xml" value="0.23493360572012256" />
+        <entry key="..\:/PEC/Github_Repos/QuizApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23493360572012256" />
         <entry key="..\:/PEC/Github_Repos/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/PEC/Github_Repos/QuizApp/app/src/main/res/layout/activity_quiz_question.xml" value="0.264" />
+        <entry key="..\:/PEC/Github_Repos/QuizApp/app/src/main/res/layout/activity_result.xml" value="0.21927083333333333" />
       </map>
     </option>
   </component>
